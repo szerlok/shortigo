@@ -57,7 +57,7 @@
     "electron-builder": "^26.15.3",
     "electron-vite": "^5.0.0",
     "eslint": "^9.15.0",
-    "js-yaml": "^5.4.2",
+    "js-yaml": "^5.4.3",
     "lucide-react": "^0.468.0",
     "playwright-core": "1.63.0",
     "postcss": "^8.4.49",
